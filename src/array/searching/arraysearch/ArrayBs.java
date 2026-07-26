@@ -1,4 +1,4 @@
-package array.searching.linear;
+package array.searching.arraysearch;
 
 // Keeps dividing the array in half. (divide & conquer)...
 // works on sorted arrays only.

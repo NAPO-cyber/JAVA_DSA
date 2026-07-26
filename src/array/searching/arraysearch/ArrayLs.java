@@ -1,4 +1,4 @@
-package array.searching.linear;
+package array.searching.arraysearch;
 
 // Checks each element one by one.
 
