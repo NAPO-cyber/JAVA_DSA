@@ -1,4 +1,4 @@
-package linkedlist;
+package linkedlist.llimplementation;
 
 class Node {
     int data;
